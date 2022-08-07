@@ -577,8 +577,8 @@ header nav .site-btn{
     transition: all ease 0.2s;
 }
 
-.dr:hover{
-    color: #ea4c89!important;
+.wa:hover{
+    color: #00ff22!important;
     transition: all ease 0.2s;
 }
 
@@ -1871,10 +1871,3 @@ footer .footer .copyright a:hover{
 
 
 }
-
-
-
-
-
-
-
